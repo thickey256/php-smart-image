@@ -6,8 +6,15 @@ So the basic idea of this is to serve up images of the correct size, if that siz
 
 ## Requirements
 * PHP 5.3 (may work on less, not tested)
+* MySQL 5
 * PHP with ImageMagick support
 * Server running Apache
 
 ## The basic way this works
 In short, the server tries to serve up the image that's been requested, if it's not present then using a custom 404 script to see if it can generate an image.  If it can't generate an image then it throws up a 404 error.. Simple.
+
+### Please note
+This is my first attempt at putting something openly on GitHub, so I apologies in advance if I do something crazy stupid.. If I do please correct it for me!
+
+### Images
+Demo images taken from StockSnap.io
