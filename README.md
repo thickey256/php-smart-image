@@ -17,4 +17,4 @@ In short, the server tries to serve up the image that's been requested, if it's 
 This is my first attempt at putting something openly on GitHub, so I apologies in advance if I do something crazy stupid.. If I do please correct it for me!
 
 ### Images
-Demo images taken from StockSnap.io
+Demo images from http://www.danetti.com
