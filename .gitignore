@@ -1,0 +1,12 @@
+
+source-images/.DS_Store
+
+htdocs/images/*
+
+**/.DS_Store
+
+*.DS_Store
+
+.DS_Store
+
+source-images/**/.DS_Store
