@@ -35,7 +35,7 @@
 			//sorts out the image compression
 			$image->setImageCompressionQuality($GLOBALS['image_compression']);
 
-			//resize to max imagesize
+			//resize the image to the correct size
 			$image->resizeImage($resize_image->image_info['size'],0,Imagick::FILTER_CATROM,1);
 
 			//output the image to the browser
